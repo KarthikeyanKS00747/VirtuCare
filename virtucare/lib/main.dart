@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:virtucare/app/app.dart';
 import 'package:flutter_gemini/flutter_gemini.dart';
 void main(){
-  Gemini.init(apiKey: "AIzaSyBoAN_2HBbZS7XG-vPYjslz__qsIoN94Zg");
+  Gemini.init(apiKey: "");
   runApp(const MainApp());
 }
 
